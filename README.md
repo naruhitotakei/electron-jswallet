@@ -1,6 +1,6 @@
 # JSWallet
 
-![Screen Shot](https://github.com/wholespace/electron-jswallet/blob/master/assets/Screen_Shot.png)
+![Screen Shot](https://github.com/naruhitotakei/electron-jswallet/blob/master/assets/Screen_Shot.png)
 
 
 This is a companion to my [Medium tutotial](https://medium.com/@michael.m/lets-create-a-secure-hd-bitcoin-wallet-in-electron-react-js-575032c42bf3).
@@ -13,7 +13,7 @@ It is **not** production code and should be used for educational puproses only.
 
 ```
 nvm use 14.16.0
-git clone https://github.com/wholespace/electron-jswallet.git
+git clone https://github.com/naruhitotakei/electron-jswallet.git
 cd jswallet
 npm install
 npm start
@@ -25,7 +25,7 @@ Key derivation is the beating heart of a Bitcoin Wallet and most security concer
 
 My code is mainly intended as an illustration of the following pattern:
 
-![Key Derivation](https://github.com/wholespace/electron-jswallet/blob/master/assets/Key%20Chain.png)
+![Key Derivation](https://github.com/naruhitotakei/electron-jswallet/blob/master/assets/Key%20Chain.png)
 
 ## Building
 
